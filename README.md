@@ -1,7 +1,7 @@
-###🌐 Portfolio Website
+###Portfolio Website
 This is my personal portfolio website built using React and Tailwind CSS, showcasing my projects, skills, and experiences in web development and data analytics. The site is fully responsive, fast, and designed to provide a clean and engaging user experience.
 
-##🚀 Tech Stack
+ ##Tech Stack
 React.js – For building dynamic, component-based UI
 
 Tailwind CSS – For fast and responsive styling
@@ -12,7 +12,7 @@ React Router – For seamless navigation
 
 Responsive Design – Mobile-first and accessible
 
-##📁 Features
+##Features
 🧠 About Me section highlighting my skills and journey
 
 💼 Projects section with live demos and GitHub links
