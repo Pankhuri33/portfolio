@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/library.jpg",
     tags: ["PLSql"],
     //demoUrl: "#",
-    githubUrl: "#https://github.com/Pankhuri33/Library_System_Management",
+    githubUrl: "https://github.com/Pankhuri33/Library_System_Management",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/RELIANCE.png",
     tags: ["PowerBI", "ETL"],
     //demoUrl: "#",
-    githubUrl: "#https://github.com/Pankhuri33/Reliance-Data-Analysis-using-PowerBI",
+    githubUrl: "https://github.com/Pankhuri33/Reliance-Data-Analysis-using-PowerBI",
   },
   //{
    /*id: 3,
