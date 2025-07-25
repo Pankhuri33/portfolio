@@ -6,7 +6,7 @@ const projects = [
     title: "Library System Management",
     description: "A system designed to efficiently manage book inventories, user records, and lending operations within a library.",
     image: "/projects/library.jpg",
-    tags: ["PLSql"],
+    tags: ["PLSql", "Sql"],
     //demoUrl: "#",
     githubUrl: "https://github.com/Pankhuri33/Library_System_Management",
   },
