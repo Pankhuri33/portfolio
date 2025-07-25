@@ -12,24 +12,24 @@ const projects = [
   },
   {
     id: 2,
-    title: "Reliance Market Analysis",
+    title: "SPF Analysis according to UV Rays",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/RELIANCE.png",
-    tags: ["PowerBI", "ETL"],
+      " Built a regression model to recommend optimal SPF levels based on UV Index, skin type, and sun exposure, leveraging WHO guidelines and skincare safety principles.",
+    image: "/projects/spf.jpg",
+    tags: ["Google Colab", "Machine Learning", "FeatureEngineering", "Python", "EDA"],
     //demoUrl: "#",
-    githubUrl: "https://github.com/Pankhuri33/Reliance-Data-Analysis-using-PowerBI",
+    githubUrl: "https://github.com/Pankhuri33/UVrays_SPFAnalysis",
   },
-  //{
-   /*id: 3,
-    title: "E-commerce Platform",
+  {
+    id: 3,
+    title: "Beauty Products Trends Analysis",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
-  },*/
+      "Analysis of 500+ beauty products to uncover revenue trends, category performance, and launch-based insights.",
+    image: "/projects/beauty.jpg",
+    tags: ["Google Colab", "PowerBI", "Python", "Faker"],
+    //demoUrl: "#",
+    githubUrl: "https://github.com/Pankhuri33/BeautyProductsTrends_Dashboard",
+  },
 ];
 
 export const ProjectsSection = () => {
