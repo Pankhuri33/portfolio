@@ -1,12 +1,28 @@
-# React + Vite
+## Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using React and Tailwind CSS, showcasing my projects, skills, and experiences in web development and data analytics. The site is fully responsive, fast, and designed to provide a clean and engaging user experience.
 
-Currently, two official plugins are available:
+ ## Tech Stack
+React.js – For building dynamic, component-based UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tailwind CSS – For fast and responsive styling
 
-## Expanding the ESLint configuration
+JavaScript / HTML5 / CSS3 – Core web technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Router – For seamless navigation
+
+Responsive Design – Mobile-first and accessible
+
+## Features
+🧠 About Me section highlighting my skills and journey
+
+💼 Projects section with live demos and GitHub links
+
+📊 Skills section covering both development and data tools
+
+📞 Contact section with social links and email
+
+🌙 Light/dark theme toggle (optional, if implemented)
+
+📸 Live Preview
+https://pankhuriportfolio.vercel.app/
