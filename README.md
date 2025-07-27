@@ -25,4 +25,4 @@ Responsive Design – Mobile-first and accessible
 🌙 Light/dark theme toggle (optional, if implemented)
 
 📸 Live Preview
-https://pankhuriportfolio.vercel.app/
+(https://portfolio-k4ya.vercel.app/)
